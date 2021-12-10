@@ -4,7 +4,7 @@
 <strong>Funções:</strong> </br>
 Consultar tópicos </br>
 Consultar todos os tópicos </br>
-Adicionar/Remover/Alterar usuários </br>
+Adicionar/Remover/Alterar tópicos </br>
 Autenticação em camadas (Moderador/Usuário) </br>
 
 <strong>Ferramentas e Tecnologias utilizadas: </strong></br>
