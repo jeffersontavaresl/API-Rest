@@ -6,7 +6,7 @@ import org.springframework.cache.annotation.EnableCaching;
 import org.springframework.data.web.config.EnableSpringDataWebSupport;
 
 @SpringBootApplication
-@EnableSpringDataWebSupport // anotação para usar as configurações de segurança do Spring
+@EnableSpringDataWebSupport // anotação para usar as configurações de anotação e paginação
 @EnableCaching // anotação para habilitar o uso do cache
 public class ApiRestApplication {
 
